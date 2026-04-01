@@ -85,6 +85,6 @@ Los proyectos están disponibles en los repositorios.
 ## 📫 Contacto
 
 * Barcelona, España
-* your_email_here
+* nilbagaria@gmail.com
 
 ---
