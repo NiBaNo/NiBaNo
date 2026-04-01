@@ -1,6 +1,6 @@
 <div align="right">
 
-🌎 Language
+🌎 Language:
 [English](README.md) | [Español](README.es.md) | [Català](README.ca.md)
 
 </div>
