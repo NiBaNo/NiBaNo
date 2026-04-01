@@ -12,6 +12,10 @@ Estudiant d’últim curs d’Enginyeria Informàtica · Enfocat en ciberseguret
 </h3>
 
 <p align="center">
+La Salle – Universitat Ramon Llull
+</p>
+
+<p align="center">
 Experiència pràctica en entorns empresarials d’IT, xarxes i seguretat.
 </p>
 
