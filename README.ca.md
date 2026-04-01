@@ -1,7 +1,7 @@
 <div align="right">
 
-🌎 Idioma
-[🇺🇸 English](README.md) | [🇪🇸 Español](README.es.md) | [🇨🇦 Català](README.ca.md)
+🌎 Idioma: 
+[English](README.md) | [Español](README.es.md) | [Català](README.ca.md)
 
 </div>
 
