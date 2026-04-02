@@ -42,7 +42,7 @@ Experiencia programando en:
 ## 🔒 Experiencia en Ciberseguridad
 
 **BonPreu S.A.U. (prácticas de verano)**
-Experiencia en equipos de IT, redes y ciberseguridad dentro de un entorno empresarial real.
+Experiencia en equipos de IT, redes y ciberseguridad durante más de cinco campañas de verano, integrándome de forma recurrente en el entorno empresarial.
 
 **Seguridad e Infraestructura**
 
