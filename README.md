@@ -42,7 +42,8 @@ Experience programming in:
 ## 🔒 Cybersecurity Experience
 
 **BonPreu S.A.U. (Summer internships)**
-Worked across IT, networking and cybersecurity teams in a real enterprise environment.
+
+Worked across IT, networking and cybersecurity teams over more than five summer cycles, integrating recurrently into the company’s operational environment.
 
 **Security & Infrastructure**
 
