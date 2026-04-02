@@ -5,7 +5,7 @@
 
 </div>
 
-<h1 align="center">Nil Bagaria</h1>
+<h1 align="center">Nil Bagaria Nofre</h1>
 
 <h3 align="center">
 Estudiant d’últim curs d’Enginyeria Informàtica · Enfocat en ciberseguretat
@@ -21,10 +21,29 @@ Experiència pràctica en entorns empresarials d’IT, xarxes i seguretat.
 
 ---
 
+## 🧠 Base Tècnica
+
+Base acadèmica sòlida en:
+
+* Sistemes Operatius
+* Xarxes
+* Sistemes de fitxers (FAT32, EXT)
+* Sistemes encastats
+* Estructures de dades i algorismes
+
+Experiència programant en:
+
+* C, Java, Python
+* JavaScript, PHP, HTML
+* SQL, Assembly, Swift 
+
+---
+
 ## 🔒 Experiència en Ciberseguretat
 
 **BonPreu S.A.U. (pràctiques d’estiu)**
-Experiència en equips d’IT, xarxes i ciberseguretat en un entorn empresarial real.
+
+Experiència en equips d’IT, xarxes i ciberseguretat durant més de cinc campanyes d’estiu, integrant-me de manera recurrent en l’entorn empresarial.
 
 **Seguretat i Infraestructura**
 
@@ -47,24 +66,6 @@ Experiència en equips d’IT, xarxes i ciberseguretat en un entorn empresarial 
 * Jira
 * 1Password
 * Centrex (sistemes de telefonia)
-
----
-
-## 🧠 Base Tècnica
-
-Base acadèmica sòlida en:
-
-* Sistemes Operatius
-* Xarxes
-* Sistemes de fitxers (FAT32, EXT)
-* Sistemes encastats
-* Estructures de dades i algorismes
-
-Experiència programant en:
-
-* C, Java, Python
-* JavaScript, PHP, HTML
-* SQL, Assembly, Swift 
 
 ---
 
