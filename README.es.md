@@ -5,7 +5,7 @@
 
 </div>
 
-<h1 align="center">Nil Bagaria</h1>
+<h1 align="center">Nil Bagaria Nofre</h1>
 
 <h3 align="center">
 Estudiante de último año de Ingeniería Informática · Enfocado en ciberseguridad
