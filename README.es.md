@@ -21,6 +21,24 @@ Experiencia práctica en entornos empresariales de IT, redes y seguridad.
 
 ---
 
+## 🧠 Base Técnica
+
+Base académica sólida en:
+
+* Sistemas Operativos
+* Redes
+* Sistemas de ficheros (FAT32, EXT)
+* Sistemas embebidos
+* Estructuras de datos y algoritmos
+
+Experiencia programando en:
+
+* C, Java, Python
+* JavaScript, PHP, HTML
+* SQL, Assembly, Swift
+
+---
+
 ## 🔒 Experiencia en Ciberseguridad
 
 **BonPreu S.A.U. (prácticas de verano)**
@@ -47,24 +65,6 @@ Experiencia en equipos de IT, redes y ciberseguridad dentro de un entorno empres
 * Jira
 * 1Password
 * Centrex (sistemas de telefonía)
-
----
-
-## 🧠 Base Técnica
-
-Base académica sólida en:
-
-* Sistemas Operativos
-* Redes
-* Sistemas de ficheros (FAT32, EXT)
-* Sistemas embebidos
-* Estructuras de datos y algoritmos
-
-Experiencia programando en:
-
-* C, Java, Python
-* JavaScript, PHP, HTML
-* SQL, Assembly, Swift
 
 ---
 
