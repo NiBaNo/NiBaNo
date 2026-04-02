@@ -21,6 +21,24 @@ Hands-on experience in enterprise IT, networking and security environments.
 
 ---
 
+## 🧠 Technical Background
+
+Strong academic foundation in:
+
+* Operating Systems
+* Networking fundamentals
+* Filesystems (FAT32, EXT)
+* Embedded systems
+* Data Structures & Algorithms
+
+Experience programming in:
+
+* C, Java, Python
+* JavaScript, PHP, HTML
+* SQL, Assembly, Swift
+
+---
+
 ## 🔒 Cybersecurity Experience
 
 **BonPreu S.A.U. (Summer internships)**
@@ -47,24 +65,6 @@ Worked across IT, networking and cybersecurity teams in a real enterprise enviro
 * Jira
 * 1Password
 * Centrex (telephony systems)
-
----
-
-## 🧠 Technical Background
-
-Strong academic foundation in:
-
-* Operating Systems
-* Networking fundamentals
-* Filesystems (FAT32, EXT)
-* Embedded systems
-* Data Structures & Algorithms
-
-Experience programming in:
-
-* C, Java, Python
-* JavaScript, PHP, HTML
-* SQL, Assembly, Swift
 
 ---
 
